@@ -9,8 +9,4 @@
 #### 📚 I’m currently learning
 - Modern JS
 - Typescript
-<<<<<<< HEAD
 - React(Next.Js)
-=======
-- React(Next.Js)
->>>>>>> 2e7d1511ee7f52053748aefcff312bef068fc438
